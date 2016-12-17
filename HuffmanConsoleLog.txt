@@ -1,0 +1,288 @@
+HauffmanTest.java
+"a" has frequency of: 1
+Code for char: "a" is:0
+Huffman Codes for the given text is:0
+The original text is:a
+Original string cost = 7.0
+Decoded  string cost = 1.0
+% reduction = 85.71428571428571
+
+"a" has frequency of: 2
+"b" has frequency of: 1
+Code for char: "b" is:0
+Code for char: "a" is:1
+Huffman Codes for the given text is:101
+The original text is:aba
+Original string cost = 21.0
+Decoded  string cost = 3.0
+% reduction = 85.71428571428571
+
+"@" has frequency of: 1
+"a" has frequency of: 11
+"b" has frequency of: 2
+"#" has frequency of: 1
+"g" has frequency of: 9
+"h" has frequency of: 4
+"+" has frequency of: 1
+"_" has frequency of: 1
+Code for char: "a" is:0
+Code for char: "g" is:10
+Code for char: "h" is:110
+Code for char: "@" is:11100
+Code for char: "#" is:11101
+Code for char: "b" is:11110
+Code for char: "_" is:111110
+Code for char: "+" is:111111
+Huffman Codes for the given text is:0001111011110101010101011011011011000010101010000001111101111111110011101
+The original text is:aaabbggggghhhhaaaggggaaaaa_+@#
+Original string cost = 210.0
+Decoded  string cost = 73.0
+% reduction = 65.23809523809524
+
+"A" has frequency of: 1
+"a" has frequency of: 1
+"b" has frequency of: 1
+"c" has frequency of: 1
+" " has frequency of: 8
+"d" has frequency of: 1
+"e" has frequency of: 2
+"f" has frequency of: 1
+"g" has frequency of: 1
+"h" has frequency of: 1
+"i" has frequency of: 1
+"j" has frequency of: 1
+"k" has frequency of: 1
+"l" has frequency of: 1
+"m" has frequency of: 1
+"n" has frequency of: 1
+"o" has frequency of: 4
+"p" has frequency of: 1
+"q" has frequency of: 1
+"r" has frequency of: 2
+"s" has frequency of: 1
+"t" has frequency of: 1
+"u" has frequency of: 2
+"v" has frequency of: 1
+"w" has frequency of: 1
+"x" has frequency of: 1
+"y" has frequency of: 1
+"z" has frequency of: 1
+Code for char: "e" is:0000
+Code for char: "t" is:00010
+Code for char: "h" is:00011
+Code for char: "x" is:00100
+Code for char: "f" is:00101
+Code for char: "s" is:00110
+Code for char: "i" is:00111
+Code for char: "v" is:01000
+Code for char: "g" is:01001
+Code for char: "p" is:01010
+Code for char: "q" is:01011
+Code for char: "o" is:011
+Code for char: "b" is:10000
+Code for char: "d" is:10001
+Code for char: "A" is:10010
+Code for char: "a" is:10011
+Code for char: "j" is:10100
+Code for char: "k" is:10101
+Code for char: "m" is:10110
+Code for char: "l" is:101110
+Code for char: "z" is:101111
+Code for char: "w" is:110000
+Code for char: "n" is:110001
+Code for char: "r" is:11001
+Code for char: "y" is:110100
+Code for char: "c" is:110101
+Code for char: "u" is:11011
+Code for char: " " is:111
+Huffman Codes for the given text is:100101110101111011001111101011010111110000110010111100001100011110010101100100111101001101110110010100011011101101
+00000001100111100010000110000111101110100111011111101001111000101101001
+The original text is:A quick brown fox jumps over the lazy dog
+Original string cost = 287.0
+Decoded  string cost = 185.0
+% reduction = 35.54006968641115
+
+"P" has frequency of: 1
+"a" has frequency of: 1
+"b" has frequency of: 1
+"c" has frequency of: 1
+" " has frequency of: 7
+"d" has frequency of: 1
+"e" has frequency of: 2
+"f" has frequency of: 1
+"g" has frequency of: 1
+"h" has frequency of: 1
+"i" has frequency of: 3
+"j" has frequency of: 1
+"k" has frequency of: 1
+"l" has frequency of: 1
+"m" has frequency of: 1
+"n" has frequency of: 1
+"o" has frequency of: 3
+"q" has frequency of: 1
+"r" has frequency of: 1
+"s" has frequency of: 1
+"t" has frequency of: 1
+"u" has frequency of: 2
+"v" has frequency of: 1
+"w" has frequency of: 1
+"x" has frequency of: 1
+"y" has frequency of: 1
+"z" has frequency of: 1
+Code for char: "h" is:00000
+Code for char: "s" is:00001
+Code for char: "q" is:00010
+Code for char: "r" is:00011
+Code for char: "b" is:00100
+Code for char: "d" is:00101
+Code for char: "j" is:00110
+Code for char: "k" is:00111
+Code for char: "t" is:01000
+Code for char: "v" is:01001
+Code for char: "n" is:01010
+Code for char: "g" is:01011
+Code for char: "x" is:01100
+Code for char: "c" is:01101
+Code for char: "u" is:0111
+Code for char: "l" is:10000
+Code for char: "m" is:10001
+Code for char: "w" is:10010
+Code for char: "f" is:10011
+Code for char: "e" is:1010
+Code for char: "o" is:1011
+Code for char: " " is:110
+Code for char: "i" is:1110
+Code for char: "y" is:111100
+Code for char: "a" is:111101
+Code for char: "P" is:111110
+Code for char: "z" is:111111
+Huffman Codes for the given text is:111110111101011010011111010001111100110001001011011001101001011100100000000110100111110010011010110001011011111111
+1010010101101000011100001001111011000111100011001110101100001
+The original text is:Pack my box with five dozen liquor jugs
+Original string cost = 273.0
+Decoded  string cost = 175.0
+% reduction = 35.8974358974359
+
+"A" has frequency of: 2
+"I" has frequency of: 1
+"L" has frequency of: 1
+"a" has frequency of: 20
+"b" has frequency of: 3
+"c" has frequency of: 5
+" " has frequency of: 79
+"d" has frequency of: 15
+"e" has frequency of: 47
+"f" has frequency of: 7
+"g" has frequency of: 6
+"h" has frequency of: 20
+"i" has frequency of: 15
+"k" has frequency of: 2
+"," has frequency of: 11
+"l" has frequency of: 18
+"m" has frequency of: 12
+"n" has frequency of: 26
+"." has frequency of: 3
+"o" has frequency of: 26
+"p" has frequency of: 5
+"r" has frequency of: 17
+"s" has frequency of: 21
+"t" has frequency of: 29
+"u" has frequency of: 11
+"v" has frequency of: 1
+"w" has frequency of: 16
+"y" has frequency of: 8
+Code for char: " " is:00
+Code for char: "u" is:01000
+Code for char: "," is:01001
+Code for char: "m" is:01010
+Code for char: "g" is:010110
+Code for char: "." is:0101110
+Code for char: "b" is:0101111
+Code for char: "e" is:011
+Code for char: "o" is:1000
+Code for char: "n" is:1001
+Code for char: "t" is:1010
+Code for char: "f" is:101100
+Code for char: "v" is:10110100
+Code for char: "A" is:10110101
+Code for char: "k" is:10110110
+Code for char: "I" is:101101110
+Code for char: "L" is:101101111
+Code for char: "d" is:10111
+Code for char: "i" is:11000
+Code for char: "w" is:11001
+Code for char: "r" is:11010
+Code for char: "l" is:11011
+Code for char: "y" is:111000
+Code for char: "p" is:1110010
+Code for char: "c" is:1110011
+Code for char: "a" is:11101
+Code for char: "h" is:11110
+Code for char: "s" is:11111
+Huffman Codes for the given text is:101101111100010010101100011100001111101110101111100111010101101000001100101100010101110110111011001110100101011010
+111000111111010001100111000101011110001011101111111101011000100111100001001001110110011011100100110001100100101011110011001010110000101001100111001110
+000101001111111001100111110011100100110010110011111111101110111011110110011010011101110110110101000100001000110100011100101101101110111010110011010010
+010011000101000110011111010001101111011111000001000110100011000100100101100010001101111011000101001111101111110100011010011010010001011110100010100010
+110100011110101110000011111010000101111111111010111011001101011000111011101111011111000010111010110101101000101011110011001111110101101010001011011001
+100100010110000101011110011000101011000101111001110000101101111010100011110100001000110100100100110011111001110010010101111001100110011000110101101110
+111001111111011011011111001011111010010010110111010011011111000111010011001110001101111011001110111001111011011011001100101010000011011110001011000110
+011101100110111001011001101001101110111100001010010111000101101010001010100001010011100110100011100111000010100111111101001001100111110110001110011111
+100011100111000010100111111100010111101000101000110101110111010011110111110000011000100100111101100011111101010001101011100001001001100111110011100100
+110010110011111101001111100100010000100010100010110011010100001010001010111100110010001101110111001010100000101011110011001001011110010100100110011111
+001110010011101100100111010101100110001110011011111111010010011101100110111001100111110011100100101011110011001111110000100011011001000101100001110100
+100111101101011000100010010100100110111000100101011000111110100011100101110010110100111111111111011101110100100101100110001001101111111100010001010101
+00111101011101100111100110110101110
+The original text is:Long years ago we made a tryst with destiny, and now the time comes when we shall redeem our pledge, not wholly or in full measur
+e, but very substantially.At the stroke of the midnight hour, when the world sleeps, India will awake to life and freedom. A moment comes, which comes
+ but rarely in history, when we step out from the old to the new, when an age ends, and when the soul of a nation, long suppressed, finds utterance.
+Original string cost = 2989.0
+Decoded  string cost = 1799.0
+% reduction = 39.812646370023415
+
+"a" has frequency of: 7
+"B" has frequency of: 1
+"b" has frequency of: 2
+"c" has frequency of: 1
+" " has frequency of: 7
+"e" has frequency of: 3
+"h" has frequency of: 2
+"k" has frequency of: 1
+"," has frequency of: 3
+"l" has frequency of: 2
+"n" has frequency of: 1
+"o" has frequency of: 3
+"p" has frequency of: 1
+"s" has frequency of: 1
+"u" has frequency of: 1
+"v" has frequency of: 1
+"w" has frequency of: 1
+"y" has frequency of: 2
+"?" has frequency of: 1
+Code for char: "y" is:0000
+Code for char: "s" is:00010
+Code for char: "u" is:00011
+Code for char: "k" is:00100
+Code for char: "v" is:00101
+Code for char: "w" is:00110
+Code for char: "?" is:00111
+Code for char: "n" is:01000
+Code for char: "p" is:01001
+Code for char: "b" is:0101
+Code for char: "B" is:01100
+Code for char: "c" is:01101
+Code for char: "l" is:0111
+Code for char: "h" is:1000
+Code for char: "e" is:1001
+Code for char: "o" is:1010
+Code for char: "," is:1011
+Code for char: "a" is:110
+Code for char: " " is:111
+Huffman Codes for the given text is:011001101101011111010111011010111110101011111001101001001110001010001001100101001101111110001100010110011110000101
+0000111111100100000001110011010101010011100111
+The original text is:Baa, baa, black sheep, have you any wool?
+Original string cost = 287.0
+Decoded  string cost = 160.0
+% reduction = 44.25087108013937
+
+===============  Done with Test1 ==================
+All Hauffman Test passed. You are great. You should get an award
